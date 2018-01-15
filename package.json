@@ -1,7 +1,7 @@
 {
   "name": "videojs-youtube-issue0",
   "version": "1.0.0",
-  "description": "",
+  "description": "Some issues with videojs-youtube",
   "main": "src/main.js",
   "scripts": {
     "dev": "webpack-dev-server"
