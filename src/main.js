@@ -1,15 +1,15 @@
 import videojs from 'video.js'
 import 'video.js/dist/video-js.min.css'
-import 'videojs-youtube'
+// import 'videojs-youtube'
 
 const player = videojs('player', {
   preload: 'auto',
   controls: true,
   autoplay: true,
-  techOrder: ['html5', 'youtube']
+  // techOrder: ['html5', 'youtube']
 })
 
-player.src({type: 'video/youtube', src: 'https://www.youtube.com/watch?v=80N-dyGIkTE'})
+player.src({type: 'video/mp4', src: 'http://dinony.com/projects/rv/video.m4v'})
 
 // player.on('ready', () => {
 //   console.log('ready')
