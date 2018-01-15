@@ -31,5 +31,5 @@ cBtn.addEventListener('click', () => {
 
 ytBtn.addEventListener('click', () => {
   console.log('SET YT VIDEO')
-  player.src({ "type": "video/youtube", "src": "https://www.youtube.com/watch?v=80N-dyGIkTE"})
+  player.src({type: 'video/youtube', src: 'https://www.youtube.com/watch?v=80N-dyGIkTE'})
 })
