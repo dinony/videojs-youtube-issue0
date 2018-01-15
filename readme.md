@@ -1,6 +1,6 @@
 # videojs-youtube Issues
 
-## durationchange / loadedmetadata
+## durationchange / loadedmetadata: [Issue 450](https://github.com/videojs/videojs-youtube/issues/450), [Issue 414](https://github.com/videojs/videojs-youtube/issues/414)
 
 1. Clone project
 2. Open console and cd to directory
