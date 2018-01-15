@@ -12,7 +12,11 @@
   },
   "keywords": [],
   "author": "Onur D. <contact@dinony.com>",
-  "license": "GPLv3",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dinony/videojs-youtube-issue0.git"
+  },
+  "license": "GPL-3.0",
   "dependencies": {
     "video.js": "^6.6.0",
     "videojs-youtube": "^2.4.1"
