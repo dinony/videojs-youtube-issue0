@@ -14,7 +14,11 @@ const player = videojs('player', {
 // })
 
 player.on('durationchange', () => {
-  console.log('duration', player.duration())
+  console.log('durationchange', player.duration())
+})
+
+player.on('loadedmetadata', () => {
+  console.log('loadedmetadata', player.duration())
 })
 
 const cBtn = document.getElementById('cVideo')
