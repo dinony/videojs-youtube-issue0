@@ -15,7 +15,7 @@
   * durationchange 42.562177 (Here duration is available)
   * loadedmetadata 42.562177 (Here duration is available)
 
-## timeupdate: [Issue](todo)
+## timeupdate: [Issue](https://github.com/videojs/videojs-youtube/issues/480)
 
 1. Clone project
 2. Open console and cd to directory
