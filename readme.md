@@ -4,7 +4,7 @@
 
 1. Clone project
 2. Open console and cd to directory
-3. Checkout `issue-durationchange` branch
+3. Checkout `issue-durationchange` [tag](https://github.com/dinony/videojs-youtube-issue0/releases/tag/issue-durationchange)
 4. Run `npm i && npm run dev`
 5. Open [browser](http://localhost:8080/)
 6. Click `YouTube video` button and observe in console
